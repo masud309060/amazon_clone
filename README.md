@@ -1,8 +1,9 @@
 <img src="https://pngimg.com/uploads/amazon/amazon_PNG6.png" alt="amazon_logo" height="100"/>
 
 ## Amazon Clone (Intro Projects) 
-The Amazon-Clone website is like a mini amazon full-stack website. Where simple user Authentication with firebase sign in and sign out sysyem. Awesome home page with some demo products. User add products in home page and remove products in checkout page if he/she wants and also a payment system with STRIPE payment method. When user buy then their order information with Payment Id and created time show in the orders section. 
-##[Live Website](https://clone-a6531--clone-a6531-tk8rf5ka.web.app) 
+The Amazon-Clone website is like a mini amazon full-stack website. Where simple user Authentication with firebase sign in and sign out system. Awesome home page with some demo products. User add products in home page and remove products in checkout page if he/she wants and also a payment system with STRIPE payment method. When user buy then their order information with Payment Id and created time show in the orders section. 
+
+<h3> [Live Website](https://clone-a6531--clone-a6531-tk8rf5ka.web.app) </h3>
 
 ### `Project Specifications`
 - Awesome and fresh looking landing home page.
