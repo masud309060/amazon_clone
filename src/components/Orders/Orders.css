@@ -1,0 +1,12 @@
+.orders {
+  background-color: white;
+  height: 100%;
+}
+
+.orders > h1 {
+  font-size: 36px;
+  background-color: #ddd;
+  padding: 10px;
+  text-align: center;
+  color: #222;
+}

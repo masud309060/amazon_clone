@@ -1,0 +1,16 @@
+.order {
+  border-bottom: 1px solid lightgray;
+  padding: 10px;
+}
+
+.order__userInfo {
+  display: flex;
+  justify-content: space-between;
+  padding: 20px;
+}
+.order__product {
+  margin-left: 10px;
+}
+.order__total {
+  padding: 20px;
+}
